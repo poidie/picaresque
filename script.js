@@ -17,7 +17,7 @@ $(function() {
     author: '창세기 제2 장 8 절',
     link: 'https://ko.wikipedia.org/wiki/%EC%B0%BD%EC%84%B8%EA%B8%B0'
   }, {
-    quote: '9 월 15 일 22 시 인트로 밴드 링크 오픈',
+    quote: '9 월 15 일 21 시 인트로 밴드 링크 오픈',
     link: '#'
   }, {
     quote: '9 월 15 일 23 시 가입 신청 일괄 수락',
