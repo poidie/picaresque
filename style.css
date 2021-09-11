@@ -485,10 +485,12 @@ main blockquote .author {
   float: right;
 }
 main blockquote .warning {
+  font-family: "Source Code Pro", monospace;
   padding-top: 10px;
   text-align: center;
 }
 main blockquote .warning > span {
+  font-family: "Source Code Pro", monospace;
   color: black;
   background: #D4AFB9;
   font-weight: bold;
